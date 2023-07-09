@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stefaniacucca
 - 👀 I’m interested in becoming a Data Analyst
-- 🌱 I’m currently learning SQL and Tableau
+- 🌱 I’m currently following Alex the Analyst's bootcamp
 - 💞️ I’m looking to collaborate on visualization projects
 - 📫 stefaniacuccadorgali@gmail.com
 
